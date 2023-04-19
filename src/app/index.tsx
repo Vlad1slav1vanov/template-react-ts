@@ -4,7 +4,7 @@ import './styles/index.scss'
 const App: React.FC = () => {
   return (
     <div className='app'>
-    APP
+      APP
     </div>
   )
 }
